@@ -2,6 +2,10 @@
  
 Chapitre 1: L'énigme du Objet céleste énigmatiqueDans une région reculée de l'univers, Sir Gingembre, un Pain d'épice Biscuit, découvre un astre mystérieux qui semble contenir les réponses à toutes les questions de l'univers. En approchant cet objet, Sir Gingembre ressent une connexion télépathique avec une civilisation ancienne qui détient les clés de la sagesse cosmique. La mission : dévoiler les secrets énigmatiques de cette race extraterrestre.
  
-Chapitre 2: Le Puzzle GalactiqueAlors que [Nom du personnage principal] plonge dans les mystères du [Nom de la civilisation extraterrestre], il/elle découvre un puzzle galactique dispersé à travers les confins de l'espace. Chaque pièce détient une partie de l'histoire universelle, mais pour les rassembler, [Nom du personnage principal] doit surmonter des épreuves énigmatiques, telles que résoudre des équations stellaires et déchiffrer des langages cosmiques.
+Chapitre 2: Le Puzzle GalactiqueAlors que Sir Gingembre plonge dans les mystères du Biscut, il/elle découvre un puzzle galactique dispersé à travers les confins de l'espace. Chaque pièce détient une partie de l'histoire universelle, mais pour les rassembler, Sir Gingembre doit surmonter des épreuves énigmatiques, telles que résoudre des équations stellaires et déchiffrer des langages cosmiques.
  
+<<<<<<< HEAD
+Chapitre 3: Les Portes de l'InfiniGuidé(e) par les connaissances révélées, [Nom du personnage principal] atteint une série de portes dimensionnelles menant vers l'infini. Derrière chaque porte se trouve un univers parallèle avec ses propres règles et réalités. Pour préserver l'équilibre cosmique, [Nom du personnage principal] doit choisir avec sagesse les portes à traverser et surmonter les défis étranges de chaque dimension.
+=======
 Chapitre 3: Les Portes de l'InfiniGuidé(e) par les connaissances révélées, Sir Gingembre (biscuit en pain d'epice de son etat) atteint une série de portes dimensionnelles menant vers l'infini. Derrière chaque porte se trouve un univers parallèle avec ses propres règles et réalités. Pour préserver l'équilibre cosmique, Sir Gingembre (biscuit en pain d'epice de son etat) doit choisir avec sagesse les portes à traverser et surmonter les défis étranges de chaque dimension.
+>>>>>>> ef7c0b859bbe310ebb4bb5ec01778d173ff9ec84
